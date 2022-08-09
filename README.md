@@ -8,7 +8,7 @@ The idea about this project started years before as a citizen-science initiative
 By having access to this vast network of sensors, in-depth raw data will be gathered from 6 major Balkan cities and be used as a example to perform data science studies to find potential relationships between phenomena in general. Furthermore, as there are numerous studies that find a relationship between air quality and respiratory diseases; by having large amounts of COVID data gathered institutionally and available makes studying this phenomenon much more viable using data science tools, that would otherwise be daunting. 
 
 # Data
-![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/pmgraphic.jpg)
+![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/pmgraphic.jpg)
 
 PM stands for particulate matter (also called particle pollution): the term for a mixture of solid particles and liquid droplets found in the air. Some particles, such as dust, dirt, soot, or smoke, are large or dark enough to be seen with the naked eye. Others are so small they can only be detected using an electron microscope. Air particle pollution includes:
 
@@ -24,7 +24,7 @@ Daily air pollution data has been gathered from 2019 to 2022, to coincide with t
 * Banja Luka
 * Zagreb 
 
-![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/airbalkans.jpg)
+![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/airbalkans.jpg)
 
 COVID data has been gathered from: [Our World In Data](https://ourworldindata.org/coronavirus)
 

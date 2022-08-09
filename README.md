@@ -8,11 +8,13 @@ The idea about this project started years before as a citizen-science initiative
 By having access to this vast network of sensors, in-depth raw data will be gathered from 6 major Balkan cities and be used as a example to perform data science studies to find potential relationships between phenomena in general. Furthermore, as there are numerous studies that find a relationship between air quality and respiratory diseases; by having large amounts of COVID data gathered institutionally and available makes studying this phenomenon much more viable using data science tools, that would otherwise be daunting. 
 
 # Data
-Air pollution data has been gathered from the following cities: 
--Prishtina
--Skopje
--Tirana, Belgrade, Banja Luka, Zagreb. From 2019 to 2022, to coincide with the COVID pandemic.
+Air pollution data has been gathered from the following cities: Prishtina, Skopje, Tirana, Belgrade, Banja Luka, Zagreb. From 2019 to 2022, to coincide with the COVID pandemic.
 
 ![airbalkans](https://user-images.githubusercontent.com/33126053/183589125-13294521-220f-4571-a6f8-418688de8fd2.jpg)
 
 COVID data has been gathered from: https://ourworldindata.org/coronavirus
+
+# Methodology
+All data processing, exploration and visualization will be conducted using Python notebooks hosted in Google Colab, and will be shared with the community.
+
+New material will be posted as we go along.

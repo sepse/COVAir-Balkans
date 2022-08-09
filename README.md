@@ -26,7 +26,7 @@ Daily air pollution data has been gathered from 2019 to 2022, to coincide with t
 
 ![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/airbalkans.jpg)
 
-COVID data has been gathered from: [Our World In Data](https://ourworldindata.org/coronavirus)
+:medical_symbol: COVID data has been gathered from: [Our World In Data](https://ourworldindata.org/coronavirus)
 
 # Methodology
 All data processing, exploration and visualization will be conducted using Python notebooks hosted in [Google Colab](https://colab.research.google.com/). The material will be shared here and be available as a tool to further explore the topics and learn about air quality, COVID, data science and machine learning.

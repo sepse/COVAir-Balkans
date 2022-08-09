@@ -15,6 +15,6 @@ Air pollution data has been gathered from the following cities: Prishtina, Skopj
 COVID data has been gathered from: https://ourworldindata.org/coronavirus
 
 # Methodology
-All data processing, exploration and visualization will be conducted using Python notebooks hosted in Google Colab, and will be shared with the community.
+All data processing, exploration and visualization will be conducted using Python notebooks hosted in Google Colab, and will be shared here with the community.
 
 New material will be posted as we go along.

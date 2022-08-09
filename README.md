@@ -1,3 +1,5 @@
+![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/banner.jpg)
+
 # COVAir-Balkans :medical_symbol: :mag_right: :closed_book:
 A data science research project, supported by [**FLOSSK - Free Libre Open-Source Software Kosova**](https://flossk.org/) through [**Techcamp**](https://techcamp.america.gov/about/). This project's objective is to promote the use of Data Science tools and Machine Learning algorithms, through which we will analyze datasets regarding air pollution and COVID in the Balkans and get a better understanding of these phenomena. 
 

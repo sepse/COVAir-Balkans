@@ -27,10 +27,10 @@ Daily air pollution data has been gathered from 2019 to 2022, to coincide with t
 ![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/airbalkans.jpg)
 
 COVID data has been gathered from: [Our World In Data](https://ourworldindata.org/coronavirus). It includes:
-**Cases**: How many new cases are being confirmed each day? How many cases have been confirmed since the pandemic started? How is the number of cases changing?
-**Deaths**: How many deaths from COVID-19 have been reported? Is the number of deaths rising or falling? How does the death rate compare to other countries?
-**Vaccinations**: How many vaccine doses are being administered each day? How many doses have been administered in total? What share of the population has been vaccinated?
-**Testing**: How much testing for coronavirus do countries conduct? How many tests did a country do to find one COVID-19 case?
+***Cases**: How many new cases are being confirmed each day? How many cases have been confirmed since the pandemic started? How is the number of cases changing?
+***Deaths**: How many deaths from COVID-19 have been reported? Is the number of deaths rising or falling? How does the death rate compare to other countries?
+***Vaccinations**: How many vaccine doses are being administered each day? How many doses have been administered in total? What share of the population has been vaccinated?
+***Testing**: How much testing for coronavirus do countries conduct? How many tests did a country do to find one COVID-19 case?
 Government responses: What measures did countries take in response to the pandemic?
 
 # Methodology

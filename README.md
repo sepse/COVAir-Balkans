@@ -1,5 +1,5 @@
 # COVAir-Balkans
-A data science research project, supported by FLOSSK - Free Libre Open-Source Software Kosova through Techcamp. This project's objective is to promote the use of Data Science tools and Machine Learning algorithms, through which we will analyze datasets regarding air pollution and COVID in the Balkans and get a better understanding of these phenomena. 
+A data science research project, supported by **FLOSSK - Free Libre Open-Source Software Kosova** through **Techcamp**. This project's objective is to promote the use of Data Science tools and Machine Learning algorithms, through which we will analyze datasets regarding air pollution and COVID in the Balkans and get a better understanding of these phenomena. 
 
 # Introduction
 The idea about this project started years before as a citizen-science initiative to install DIY air pollution sensors in Kosovo (https://sensor.community), as a means of quantifying and understanding the phenomenon of air quality and the potential causes and patterns. The advantage of this global community-driven initiative is that the data gathered is standardized, as they all use the same type of sensor, and they can be placed in areas where local communities may have concerns, thereby raising awareness about the state of the environment.
@@ -15,6 +15,6 @@ Daily air pollution data has been gathered from the following cities: Prishtina,
 COVID data has been gathered from: https://ourworldindata.org/coronavirus
 
 # Methodology
-All data processing, exploration and visualization will be conducted using Python notebooks hosted in Google Colab. The material will be shared here and be available as a tool to further explore the topics and learn about air quality, COVID, data science and machine learning.
+All data processing, exploration and visualization will be conducted using Python notebooks hosted in [Google Colab](https://colab.research.google.com/). The material will be shared here and be available as a tool to further explore the topics and learn about air quality, COVID, data science and machine learning.
 
 New material will be posted as we go along.

@@ -44,4 +44,6 @@ All data processing, exploration and visualization will be conducted using Pytho
 New material will be posted as we go along.
 
 
+## First Results ##
+
 *"This project is financed under the TechCamp Kosovo small grant program, funded by the Bureau of Educational & Cultural Affairs through the U.S. Embassy Pristina, Kosovo, in partnership with FLOSSK."*

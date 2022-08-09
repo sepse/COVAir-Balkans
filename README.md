@@ -40,3 +40,6 @@ Government responses: What measures did countries take in response to the pandem
 All data processing, exploration and visualization will be conducted using Python notebooks hosted in [Google Colab](https://colab.research.google.com/). The material will be shared here and be available as a tool to further explore the topics and learn about air quality, COVID, data science and machine learning.
 
 New material will be posted as we go along.
+
+
+*"This project is financed under the TechCamp Kosovo small grant program, funded by the Bureau of Educational & Cultural Affairs through the U.S. Embassy Pristina, Kosovo, in partnership with FLOSSK."*

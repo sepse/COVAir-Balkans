@@ -9,12 +9,12 @@ By having access to this vast network of sensors, in-depth raw data will be gath
 
 # Data
 Daily air pollution data has been gathered from the following cities: 
-1 Prishtina, 
-2 Skopje, 
-3 Tirana, 
-4 Belgrade, 
-5 Banja Luka, 
-6 Zagreb. 
+* Prishtina 
+* Skopje
+* Tirana
+* Belgrade
+* Banja Luka
+* Zagreb. 
 
 From 2019 to 2022, to coincide with the COVID pandemic.
 

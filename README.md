@@ -11,8 +11,8 @@ By having access to this vast network of sensors, in-depth raw data will be gath
 
 PM stands for particulate matter (also called particle pollution): the term for a mixture of solid particles and liquid droplets found in the air. Some particles, such as dust, dirt, soot, or smoke, are large or dark enough to be seen with the naked eye. Others are so small they can only be detected using an electron microscope. Air particle pollution includes:
 
-PM10 : inhalable particles, with diameters that are generally 10 micrometers and smaller; and
-PM2.5 : fine inhalable particles, with diameters that are generally 2.5 micrometers and smaller. [Source](https://www.epa.gov/pm-pollution/particulate-matter-pm-basics)
+- PM10 : inhalable particles, with diameters that are generally 10 micrometers and smaller; and
+- PM2.5 : fine inhalable particles, with diameters that are generally 2.5 micrometers and smaller. [Source](https://www.epa.gov/pm-pollution/particulate-matter-pm-basics)
 
 Daily air pollution data has been gathered from 2019 to 2022, to coincide with the COVID pandemic, from the following cities: 
 

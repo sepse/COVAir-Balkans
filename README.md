@@ -45,7 +45,9 @@ New material will be posted as we go along.
 
 
 # First Results
+Not surprisingly, from initial inspection of overall reagion we can see a clear seasonality to pollution levels.
 
 ![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/balkanair.jpg)
+
 
 *"This project is financed under the TechCamp Kosovo small grant program, funded by the Bureau of Educational & Cultural Affairs through the U.S. Embassy Pristina, Kosovo, in partnership with FLOSSK."*

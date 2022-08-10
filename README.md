@@ -43,7 +43,7 @@ All data processing, exploration and visualization will be conducted using Pytho
 
 
 # First Results
-Not surprisingly, from initial inspection of overall reagion we can see a clear seasonality to pollution levels.
+Not surprisingly, from initial data exploration of overall reagion we can see a clear seasonality to pollution levels.
 
 ![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/balkanair.jpg)
 

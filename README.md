@@ -47,6 +47,8 @@ Not surprisingly, from initial data exploration of overall reagion we can see a 
 
 ![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/balkanair.jpg)
 
+![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/seasonality.jpg)
+
 New material will be updated here as we further develop and explore.
 
 *"This project is financed under the TechCamp Kosovo small grant program, funded by the Bureau of Educational & Cultural Affairs through the U.S. Embassy Pristina, Kosovo, in partnership with FLOSSK."*

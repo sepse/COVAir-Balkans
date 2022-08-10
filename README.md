@@ -18,7 +18,7 @@ PM stands for particulate matter (also called particle pollution): the term for 
 - **PM10** : inhalable particles, with diameters that are generally 10 micrometers and smaller; and
 - **PM2.5** : fine inhalable particles, with diameters that are generally 2.5 micrometers and smaller. [Source](https://www.epa.gov/pm-pollution/particulate-matter-pm-basics)
 
-Daily air pollution data has been gathered from 2019 to 2022, to coincide with the COVID pandemic [Source](https://archive.sensor.community/), from the following cities: 
+Daily air pollution data (PM10 & PM2.5) has been gathered from 2019 to 2022, to coincide with the COVID pandemic [Source](https://archive.sensor.community/), from the following cities: 
 
 * Prishtina 
 * Skopje

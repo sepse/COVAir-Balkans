@@ -41,13 +41,12 @@ Government responses: What measures did countries take in response to the pandem
 # Methodology
 All data processing, exploration and visualization will be conducted using Python notebooks hosted in [Google Colab](https://colab.research.google.com/). The material will be shared here and be available as a tool to further explore the topics and learn about air quality, COVID, data science and machine learning.
 
-New material will be posted as we go along.
-
 
 # First Results
 Not surprisingly, from initial inspection of overall reagion we can see a clear seasonality to pollution levels.
 
 ![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/balkanair.jpg)
 
+New material will be updated here as we further develop and explore.
 
 *"This project is financed under the TechCamp Kosovo small grant program, funded by the Bureau of Educational & Cultural Affairs through the U.S. Embassy Pristina, Kosovo, in partnership with FLOSSK."*

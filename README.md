@@ -49,6 +49,6 @@ Not surprisingly, from initial data exploration of overall region we can see a c
 
 ![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/seasonality.jpg)
 
-New material will be updated here as we further develop and explore.
+New material will be updated here as we further research and develop.
 
 *"This project is financed under the TechCamp Kosovo small grant program, funded by the Bureau of Educational & Cultural Affairs through the U.S. Embassy Pristina, Kosovo, in partnership with FLOSSK."*

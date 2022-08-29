@@ -38,6 +38,8 @@ COVID data has been gathered from: [Our World In Data](https://ourworldindata.or
 - **Testing**: How much testing for coronavirus do countries conduct? How many tests did a country do to find one COVID-19 case?
 Government responses: What measures did countries take in response to the pandemic?
 
+All datasets can be accessed via this link [Complete Datasets](https://drive.google.com/drive/folders/1jQUcwHCfegaoPiOR3yDSgqbY3zlYsIAx?usp=sharing)
+
 ## Methodology
 All data processing, exploration and visualization will be conducted using Python notebooks hosted in [Google Colab](https://colab.research.google.com/). The material will be shared here and be available as a tool to further explore the topics and learn about air quality, COVID, data science and machine learning.
 

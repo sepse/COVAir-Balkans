@@ -41,9 +41,10 @@ Government responses: What measures did countries take in response to the pandem
 All datasets can be accessed via this link [Complete Datasets](https://drive.google.com/drive/folders/1jQUcwHCfegaoPiOR3yDSgqbY3zlYsIAx?usp=sharing)
 
 ## Methodology
-All data processing, exploration and visualization will be conducted using Python notebooks hosted in [Google Colab](https://colab.research.google.com/). The material is available as a tool to further explore the topics and learn about air quality, COVID, data science. 
+All data processing, exploration and visualization will be conducted using Python notebooks hosted in [Google Colab](https://colab.research.google.com/). The material is available as a tool to further explore the topics and learn about air quality, COVID, data science. Notebooks will open in Colab, where you can run all data operations, as well as tweak them to further explore the data.
 
 The notebooks: [Balkan Air Pollution](https://github.com/sepse/COVAir-Balkans/blob/main/balkan_pollution.ipynb); and [Balkan Covid](https://github.com/sepse/COVAir-Balkans/blob/main/balkan_pollution.ipynb)
+
 
 
 

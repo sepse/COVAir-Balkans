@@ -41,7 +41,10 @@ Government responses: What measures did countries take in response to the pandem
 All datasets can be accessed via this link [Complete Datasets](https://drive.google.com/drive/folders/1jQUcwHCfegaoPiOR3yDSgqbY3zlYsIAx?usp=sharing)
 
 ## Methodology
-All data processing, exploration and visualization will be conducted using Python notebooks hosted in [Google Colab](https://colab.research.google.com/). The material will be shared here and be available as a tool to further explore the topics and learn about air quality, COVID, data science.
+All data processing, exploration and visualization will be conducted using Python notebooks hosted in [Google Colab](https://colab.research.google.com/). The material is available as a tool to further explore the topics and learn about air quality, COVID, data science. 
+
+The notebooks: [Balkan Air Pollution](https://github.com/sepse/COVAir-Balkans/blob/main/balkan_pollution.ipynb); and [Balkan Covid](https://github.com/sepse/COVAir-Balkans/blob/main/balkan_pollution.ipynb)
+
 
 
 ## First Results
@@ -51,6 +54,6 @@ Not surprisingly, from initial data exploration of overall region we can see the
 
 ![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/seasonality.jpg)
 
-New material will be updated here as we further research and develop.
+For more detailed analysis and graphics, refer to notebooks above.
 
 *"This project is financed under the TechCamp Kosovo small grant program, funded by the Bureau of Educational & Cultural Affairs through the U.S. Embassy Pristina, Kosovo, in partnership with FLOSSK."*

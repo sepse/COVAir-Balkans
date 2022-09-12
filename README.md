@@ -55,7 +55,11 @@ Not surprisingly, from initial data exploration of overall region we can see the
 
 ![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/seasonality.jpg)
 
+Meanwhile our exploration of COVID dataset also reveals somewhat similar country profiles as far as general trendlines are concerned, nevertheless some unique patterns do emerge and they become evident as we visually investigate.
+
 ![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/covidbalkan.jpg)
+
+This analysis provides a general understanding of how Balkan countries relate to one another, and it does raise some questions that might be worthy of further investigation from different domains. Namely, the strongest correlation exists between 'New Testing' and 'New Cases', which could potentially explain the anomalies in the trendlines.
 
 For more detailed analysis and graphics, refer to notebooks above.
 

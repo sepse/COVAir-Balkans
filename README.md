@@ -59,8 +59,9 @@ Meanwhile our exploration of COVID dataset also reveals somewhat similar country
 
 ![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/covidbalkan.jpg)
 
-This analysis provides a general understanding of how Balkan countries relate to one another, and it does raise some questions that might be worthy of further investigation from different domains. Namely, the strongest correlation exists between 'New Testing' and 'New Cases', which could potentially explain the anomalies in the trendlines.
+This analysis provides a general understanding of how Balkan countries relate to one another, and it does raise some questions that might be worthy of further investigation from different domains. Namely, the strongest correlation exists between 'New Testing' and 'New Cases' variables, which could  explain the anomalies in the trendlines above.
 
-For more detailed analysis and graphics, refer to notebooks above.
+
+For more in-depth analysis and visual representation, refer to the complete studies in the notebooks above.
 
 *"This project is financed under the TechCamp Kosovo small grant program, funded by the Bureau of Educational & Cultural Affairs through the U.S. Embassy Pristina, Kosovo, in partnership with FLOSSK."*

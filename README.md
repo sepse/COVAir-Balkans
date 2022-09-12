@@ -55,7 +55,7 @@ Not surprisingly, from initial data exploration of overall region we can see the
 
 ![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/seasonality.jpg)
 
-![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/covbalkan.jpg)
+![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/covidbalkan.jpg)
 
 For more detailed analysis and graphics, refer to notebooks above.
 

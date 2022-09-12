@@ -7,7 +7,7 @@ A data science research project, supported by [**FLOSSK - Free Libre Open-Source
 This project initially started several years before as a citizen-science initiative to install DIY air pollution sensors in Kosovo through [Sensor Community](https://sensor.community), as a means of quantifying and understanding the phenomenon of air quality and the potential causes and patterns. As environmental concerns became more evident in the Balkans, there was a strong lack of concrete and open data about air pollution. The advantage of this global community-driven initiative is that the data gathered is standardized, as they all use the same type of sensor, and they can be placed in areas where local communities may have concerns, thereby raising awareness about the state of the environment.
 
 ## Objective
-By having access to this vast network of sensors, in-depth raw data will be gathered from 6 major Balkan cities and be used as a example to perform data science studies to find potential relationships between phenomena in general. As there are numerous studies that find a relationship between air quality and respiratory diseases; by having large amounts of COVID data gathered institutionally and available makes studying this phenomenon much more viable using data science tools, that would otherwise be daunting. As exponentially more data becomes abundant and available, classical top-down programming will be cumbersome and not efficient, whereas Machine Learning algorithms can sort it automatically.
+By having access to this vast network of sensors, in-depth raw data will be gathered from 6 major Balkan cities and be used as a example to perform data science studies to find potential relationships between phenomena in general. As there are numerous studies that find a relationship between air quality and respiratory diseases; by having large amounts of COVID data gathered institutionally and available makes studying this phenomenon much more viable using data science tools, that would otherwise be daunting. By performing exploratory analysis of data from these cities we can get different profiles of them in ways that will allow us get a better perspective about how they rank in comparison as well as how they handle issues such as pollution and pandemic response.
 
 ## Data
 ### Air Pollution Data
@@ -49,11 +49,12 @@ All data processing, exploration and visualization will be conducted using Pytho
 
 
 ## First Results
-Not surprisingly, from initial data exploration of overall region we can see the clear seasonality and trend of pollution levels.
+Not surprisingly, from initial data exploration of overall region we can see the clear seasonality and trend of pollution levels due to increased burning of wood and coal for heating during the winter. It is particularly interesting to see how different city profiles emerge by looking at baseline air pollution during non-winter months, namely as it addresses other factors that might contribute to air quality (vehicles, industrial activities). These results might not point to specific cause of pollution, however it provides us an advantage to better investigate the phenomenon and potentially identify potential culprits that might play a major role. For instance, one key takeaway that stands out is the improvement of air quality during the COVID lockdown periods, possibly due to decreased traffic.
 
 ![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/balkanair.jpg)
 
 ![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/seasonality.jpg)
+
 
 For more detailed analysis and graphics, refer to notebooks above.
 
